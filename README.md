@@ -17,12 +17,28 @@ dm_2016325/
 │   ├── taller_01/
 │   │   ├── enunciado.md
 │   │   └── entregas/
-│   │       └── nombre_estudiante/
+│   │       ├── jerez_tomas/
+│   │       ├── gomez_juan_jose/
+│   │       ├── canelo_janith/
+│   │       ├── tabaco_sebastian/
+│   │       ├── luciano_winston/
+│   │       ├── correa_keiner/
+│   │       ├── rava_oscar/
+│   │       ├── guerrero_luisa/
+│   │       └── aldana_juan_pablo/
 ├── grupo_2/
 │   ├── taller_01/
 │   │   ├── enunciado.md
 │   │   └── entregas/
-│   │       └── nombre_estudiante/
+│   │       ├── bejarano_elian/
+│   │       ├── gomez_sergio/
+│   │       ├── angulo_daniel/
+│   │       ├── ortiz_owen/
+│   │       ├── roncancio_daniela/
+│   │       ├── vargas_mateo/
+│   │       ├── sanchez_jorge/
+│   │       ├── camacho_juan/
+│   │       └── ardila_cristian/
 ```
 
 Cada clase tiene una actividad. Por esa razón, a lo largo del semestre se irán creando carpetas como `taller_01`, `taller_02`, `taller_03` y así sucesivamente, siguiendo siempre la misma estructura.
